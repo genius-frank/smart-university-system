@@ -33,11 +33,17 @@ This system:
 
 ---
 
-## 👨‍💻Author
+##  Screenshots
+
+![Dashboard](dashboard.png)
+![Login](login.png)
+---
+
+## Author
 **Francis Onyango**  
 Diploma in Computer Science
 
 ---
 
-## 📞Contact
+## Contact
 Available for freelance projects and system development.
