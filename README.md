@@ -37,6 +37,8 @@ This system:
 
 ![Dashboard](dashboard.png)
 ![Login](login.png)
+![Scanner](scanner.png)
+![Admin](admin.png)
 ---
 
 ## Author
