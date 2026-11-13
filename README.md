@@ -35,10 +35,20 @@ This system:
 
 ##  Screenshots
 
-![Dashboard](dashboard.png)
-![Login](login.png)
-![Scanner](scanner.png)
-![Admin](admin.png)
+## Screenshots
+
+### Dashboard (Fee Paid)
+![Dashboard](feepaiddashboard.png)
+
+### Login
+![Login](logingit.png)
+
+### Scanner
+![Scanner](scannerchoice.png)
+
+### Admin Panel
+![Admin](adminpanel.png)
+
 ---
 
 ## Author
